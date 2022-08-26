@@ -55,15 +55,9 @@ h1 {
     font-weight: 300;
 }
 
-.content {
-    
-}
-
 .ethereum, .clock {
     padding-right: 0.3em;
-
 }
-
 
 .price {
     color: hsl(178, 100%, 50%);
@@ -94,11 +88,10 @@ hr {
     font-size: 16px;
     margin-left: 1em;
 }
+
 .ppl_info span {
     color: hsl(0, 0%, 100%);
 }
-
-
 
 .attribution { 
     position: fixed;
